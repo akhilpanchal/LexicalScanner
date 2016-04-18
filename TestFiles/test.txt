@@ -1,0 +1,20 @@
+Tryout 1:
+
+Count of the word 'lol' in text5:
+
+>>> text5.count('lol')
+704
+
+>>> 100 * text5.count('lol')/len(text5)
+1.5640968673628082
+>>>
+
+Count of the word 'the' in text6:
+
+>>> text6.count('the')
+299
+>>> 100 * text6.count('the')/len(text6)
+1.7622443566924029
+>>>
+>>>
+>>>
